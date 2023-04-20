@@ -1,0 +1,566 @@
+[
+  {
+    "meses": 26,
+    "tipoN": "A",
+    "salario": 100,
+    "genero": "M",
+    "tipoM":"min"
+  },
+  {
+    "meses": 26,
+    "tipoN": "B",
+    "salario": 1000,
+    "genero": "M",
+    "tipoM":"min"
+  },
+  {
+    "meses": 26,
+    "tipoN": "C",
+    "salario": 400,
+    "genero": "M",
+    "tipoM":"min"
+  },
+  {
+    "meses": 26,
+    "tipoN": "D",
+    "salario": 400,
+    "genero": "M",
+    "tipoM":"min"
+  }, 
+  {
+    "meses": 27,
+    "tipoN": "A",
+    "salario": 400,
+    "genero": "M",
+    "tipoM":"min"
+  }, 
+  {
+    "meses": 27,
+    "tipoN": "B",
+    "salario": 600,
+    "genero": "M",
+    "tipoM":"min"
+  }, 
+  {
+    "meses": 27,
+    "tipoN": "C",
+    "salario": 200,
+    "genero": "M",
+    "tipoM":"min"
+  }, 
+  {
+    "meses": 27,
+    "tipoN": "D",
+    "salario": 300,
+    "genero": "M",
+    "tipoM":"min"
+  },  
+  {
+    "meses": 28,
+    "tipoN": "A",
+    "salario": 900,
+    "genero": "M",
+    "tipoM":"min"
+  },
+  {
+    "meses": 28,
+    "tipoN": "B",
+    "salario": 1000,
+    "genero": "M",
+    "tipoM":"min"
+  },
+  {
+    "meses": 28,
+    "tipoN": "C",
+    "salario": 200,
+    "genero": "M",
+    "tipoM":"min"
+  }, 
+  {
+    "meses": 28,
+    "tipoN": "D",
+    "salario": 500,
+    "genero": "M",
+    "tipoM":"min"
+  }, 
+  {
+    "meses": 29,
+    "tipoN": "A",
+    "salario": 100,
+    "genero": "M",
+    "tipoM":"min"
+  }, 
+  {
+    "meses": 29,
+    "tipoN": "B",
+    "salario": 1000,
+    "genero": "M",
+    "tipoM":"min"
+  }, 
+  {
+    "meses": 29,
+    "tipoN": "C",
+    "salario": 1000,
+    "genero": "M",
+    "tipoM":"min"
+  }, 
+  {
+    "meses": 29,
+    "tipoN": "D",
+    "salario": 900,
+    "genero": "M",
+    "tipoM":"min"
+  },   
+
+  {
+    "meses": 30,
+    "tipoN": "A",
+    "salario": 600,
+    "genero": "M",
+    "tipoM":"min"
+  }, 
+  {
+    "meses": 30,
+    "tipoN": "B",
+    "salario": 1000,
+    "genero": "M",
+    "tipoM":"min"
+  }, 
+  {
+    "meses": 30,
+    "tipoN": "C",
+    "salario": 600,
+    "genero": "M",
+    "tipoM":"min"
+  }, 
+  {
+    "meses": 30,
+    "tipoN": "C",
+    "salario": 1000,
+    "genero": "M",
+    "tipoM":"min"
+  },
+  {
+    "meses": 26,
+    "tipoN": "A",
+    "salario": 4900,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 26,
+    "tipoN": "B",
+    "salario": 4700,
+    "genero": "M",
+    "tipoM":"max"
+  },  
+  {
+    "meses": 26,
+    "tipoN": "C",
+    "salario": 5000,
+    "genero": "M",
+    "tipoM":"max"
+  }, 
+  {
+    "meses": 26,
+    "tipoN": "D",
+    "salario": 4400,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 27,
+    "tipoN": "A",
+    "salario": 4700,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 27,
+    "tipoN": "B",
+    "salario": 4400,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 27,
+    "tipoN": "C",
+    "salario": 4700,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 27,
+    "tipoN": "D",
+    "salario": 4700,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 28,
+    "tipoN": "A",
+    "salario": 4600,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 28,
+    "tipoN": "B",
+    "salario": 5000,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 28,
+    "tipoN": "C",
+    "salario": 5000,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 28,
+    "tipoN": "D",
+    "salario": 4300,
+    "genero": "M",
+    "tipoM":"max"
+  },
+
+  {
+    "meses": 29,
+    "tipoN": "A",
+    "salario": 4600,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 29,
+    "tipoN": "B",
+    "salario": 4400,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 29,
+    "tipoN": "C",
+    "salario": 4200,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 29,
+    "tipoN": "D",
+    "salario": 4900,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 30,
+    "tipoN": "A",
+    "salario": 4500,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 30,
+    "tipoN": "B",
+    "salario": 4900,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 30,
+    "tipoN": "C",
+    "salario": 4600,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 30,
+    "tipoN": "D",
+    "salario": 4300,
+    "genero": "M",
+    "tipoM":"max"
+  },
+  {
+    "meses": 24,
+    "tipoN": "A",
+    "salario": 800,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 24,
+    "tipoN": "B",
+    "salario": 800,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 24,
+    "tipoN": "C",
+    "salario": 200,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 24,
+    "tipoN": "D",
+    "salario": 500,
+    "genero": "F",
+    "tipoM":"min"
+  },
+
+  {
+    "meses": 25,
+    "tipoN": "A",
+    "salario": 800,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 25,
+    "tipoN": "B",
+    "salario": 700,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 25,
+    "tipoN": "C",
+    "salario": 900,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 25,
+    "tipoN": "D",
+    "salario": 1000,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 26,
+    "tipoN": "A",
+    "salario": 800,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 26,
+    "tipoN": "B",
+    "salario": 100,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 26,
+    "tipoN": "C",
+    "salario": 700,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 26,
+    "tipoN": "D",
+    "salario": 600,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 27,
+    "tipoN": "A",
+    "salario": 600,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 27,
+    "tipoN": "B",
+    "salario": 600,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 27,
+    "tipoN": "C",
+    "salario": 800,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 27,
+    "tipoN": "D",
+    "salario": 400,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 28,
+    "tipoN": "A",
+    "salario": 200,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 28,
+    "tipoN": "B",
+    "salario": 700,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 28,
+    "tipoN": "C",
+    "salario": 100,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 28,
+    "tipoN": "D",
+    "salario": 700,
+    "genero": "F",
+    "tipoM":"min"
+  },
+  {
+    "meses": 24,
+    "tipoN": "A",
+    "salario": 4000,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 24,
+    "tipoN": "B",
+    "salario": 4700,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 24,
+    "tipoN": "C",
+    "salario": 4600,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 24,
+    "tipoN": "D",
+    "salario": 5000,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 25,
+    "tipoN": "A",
+    "salario": 4200,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 25,
+    "tipoN": "B",
+    "salario": 4200,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 25,
+    "tipoN": "C",
+    "salario": 4900,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 25,
+    "tipoN": "D",
+    "salario": 4900,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 26,
+    "tipoN": "A",
+    "salario": 4100,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 26,
+    "tipoN": "B",
+    "salario": 4500,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 26,
+    "tipoN": "C",
+    "salario": 4600,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 26,
+    "tipoN": "D",
+    "salario": 4700,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 27,
+    "tipoN": "A",
+    "salario": 4200,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 27,
+    "tipoN": "B",
+    "salario": 4300,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 27,
+    "tipoN": "C",
+    "salario": 4700,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 27,
+    "tipoN": "D",
+    "salario": 5000,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 28,
+    "tipoN": "A",
+    "salario": 4500,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 28,
+    "tipoN": "B",
+    "salario": 4400,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 28,
+    "tipoN": "C",
+    "salario": 4000,
+    "genero": "F",
+    "tipoM":"max"
+  },
+  {
+    "meses": 28,
+    "tipoN": "D",
+    "salario": 4300,
+    "genero": "F",
+    "tipoM":"max"
+  } 
+  
+]
